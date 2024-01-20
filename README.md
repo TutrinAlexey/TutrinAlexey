@@ -2,6 +2,12 @@
 
 ### Я frontend-разработчик
 
+## Мои цели:
+
+* Изучить MERN стек.
+* Работать над реальными проектами.
+* Работать в команде
+
 ## Мои навыки и инструменты:
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -12,8 +18,8 @@
 
 ## Связаться со мной
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(tuxone1306@gmail.com)
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)(https://t.me/tuxoneee)
 
 <!--
 **TutrinAlexey/TutrinAlexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
